@@ -1,7 +1,7 @@
 # Helpful Windows Stuff
 
 
-Bash Aliases and Functions
+## Bash Aliases and Functions
 1. You might need to reveal hidden files first (see info linked below)
 1. Assuming you used the default settings when installing Bash, your aliases.sh file will be located here:
 `C:\Program Files\Git\etc\profile.d`
