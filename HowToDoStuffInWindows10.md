@@ -2,7 +2,7 @@
 This is a running list of stuff I occasionally need to do/know but not often enough that it's made it to my long term memory.
 
 ## Show Hidden Files in Windows Explorer
-If you need to see files that are normally hidden, like the .git directory, here's how:
+If you need to see files in Windows Explorer that are normally hidden, like the .git directory, here's how:
 
 1. Open a File Explorer window
 1. Click on "File", then on "Options"
