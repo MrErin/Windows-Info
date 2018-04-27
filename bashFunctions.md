@@ -303,7 +303,7 @@ grunt.initConfig({
     },
     uglify: {
         options: {
-            banner: "/*! <%= pkg.name %> <%= grunt.template.today('yyyy-mm-dd') %> */"
+            banner: "/*! <%= pkg.name %> <%= grunt.template.today('"'"'yyyy-mm-dd'"'"') %> */"
         },
         build: {
             files: [{
