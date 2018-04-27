@@ -164,6 +164,8 @@ This function creates the directory structure and the following files per class 
   * package.json
 * .gitignore
 
+It then initializes node and installs the packages listed in package.json.
+
 Add to aliases.sh
 
 ```bash
@@ -324,6 +326,13 @@ grunt.loadNpmTasks("grunt-contrib-copy");
 // Default task(s).
 grunt.registerTask("default", ["eslint", "sass", "browserify", "uglify", "copy", "watch"])
 }' >> ./src/Gruntfile.js
+
+cd ./src/
+
+npm init
+npm install
+
+cd ..
 
 code .
 }
