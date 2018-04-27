@@ -1,4 +1,6 @@
-# Push commits to master
+# Bash Aliases
+
+## Push commits to master
 
 * Add to aliases.sh:
 
@@ -8,10 +10,9 @@
 
 ```gpom```
 
+## Push commits to branch name
 
-# Push commits to branch name 
-
-* Add to aliases.sh: 
+* Add to aliases.sh:
 
 ```alias gpo="git push origin "```
 
@@ -19,8 +20,7 @@
 
 ```gpo [branch name]```
 
-
-# Make a new branch
+## Make a new branch
 
 * Add to aliases.sh:
 
@@ -30,8 +30,7 @@
 
 ```gcb [new branch name]```
 
-
-# Checkout existing branch
+## Checkout existing branch
 
 * Add to aliases.sh:
 
@@ -41,8 +40,7 @@
 
 ```gc [branch name]```
 
-
-# Get git status
+## Get git status
 
 * Add to aliases.sh:
 

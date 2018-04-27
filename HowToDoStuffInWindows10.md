@@ -10,7 +10,7 @@ If you need to see files in Windows Explorer that are normally hidden, like the 
 
 ![Image of Folder Options](./img/hidden.png)
 
-## Show .gitnore Filename (or: Show All File Extensions)
+## Show .gitignore Filename (or: Show All File Extensions)
 
 1. Open a File Explorer window
 1. Click on "File", then "Options"
