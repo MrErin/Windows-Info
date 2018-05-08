@@ -21,13 +21,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-#ESLint
-node_modules/
-package.json
-package-lock.json
-.eslintrc.js
-
 #other
+node_modules/
+dist/
+.DS_Store
+.sass-cache
+.stylelintrc
 bower_components
 __pycache__
 *.pyc

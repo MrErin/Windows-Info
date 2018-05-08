@@ -85,11 +85,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-#ESLint
-package.json
-package-lock.json
-.eslintrc.js
-
 #other
 node_modules/
 dist/
